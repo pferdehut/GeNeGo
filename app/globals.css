@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Gioco Web";
-  src: url("/fonts/Gioco-REgular.woff2") format("woff2"), url("/fonts/Gioco-Regular.woff") format("woff");
+  src: url("/fonts/your-font.woff2") format("woff2"), url("/fonts/your-fint.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
